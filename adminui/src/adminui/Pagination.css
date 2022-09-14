@@ -1,0 +1,6 @@
+.page-container {
+  display: flex;
+  justify-content: right;
+  margin-right: 15px;
+  margin-top: 30px;
+}

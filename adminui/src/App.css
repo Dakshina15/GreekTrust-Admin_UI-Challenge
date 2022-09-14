@@ -1,0 +1,32 @@
+.App{
+  display: block;   
+  margin-top: 12px; 
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+@media only screen  and (max-width: 575.98px) {
+  html{
+    width: 100%;
+  }
+
+   .App {
+    width: 80%;
+  } 
+
+  .search-bar{
+    width: 105%;
+  }
+
+  .main-container{
+    width: 105%;
+  }
+   
+  form{
+    width: 100%;
+  }  
+
+  table{
+    margin-right: 20px;
+  } 
+}
